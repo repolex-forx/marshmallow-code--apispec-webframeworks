@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "apispec-webframeworks",
+  "versions": [
+    {
+      "commit": "b03f02fe2f0cbd4818cae47bcedd2abf8596ad9b",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:14:03.449969+00:00"
+    }
+  ]
+}
