@@ -98,4 +98,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [marshmallow-code/apispec-webframeworks](https://github.com/marshmallow-code/apispec-webframeworks)
 
 ---
-*Parsed on 2026-10-10 by [repolex](https://repolex.ai)*
+*Parsed on 2026-10-11 by [repolex](https://repolex.ai)*

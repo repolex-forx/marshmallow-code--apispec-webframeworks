@@ -2,7 +2,7 @@
 
 > **Commit:** [`b03f02fe`](https://github.com/marshmallow-code/apispec-webframeworks/commit/b03f02fe2f0cbd4818cae47bcedd2abf8596ad9b)
 > **Health Score:** 🟢 **100/100** · **Verdict:** OPTIMAL (100% Clean DAG Architecture)
-> **Query Latency:** 194.86 ms | **Verified Knowledge Quads:** 41,347
+> **Query Latency:** 187.50 ms | **Verified Knowledge Quads:** 41,347
 
 ---
 
